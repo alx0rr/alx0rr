@@ -15,12 +15,8 @@
 </a>
 </p>
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alx0rr&show_icons=true&theme=radical&width=500&height=250)
-
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=alx0rr&theme=radical&width=500&height=200)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alx0rr&layout=compact&theme=radical&width=400&height=250)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alx0rr&show_icons=true&theme=radical" width="400" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alx0rr&layout=compact&theme=radical" width="400" height="200" />
 </div>
 
 
