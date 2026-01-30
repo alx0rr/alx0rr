@@ -14,10 +14,13 @@
 <img src="https://img.shields.io/github/stars/alx0rr?style=social" />
 </a>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alx0rr&show_icons=true&theme=radical" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx0rr&layout=compact&theme=radical" height="165" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alx0rr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=alx0rr&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alx0rr&layout=compact&theme=radical)
+
+</div>
 
 
 ---
