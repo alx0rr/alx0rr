@@ -54,7 +54,22 @@
 ---
 
 ## 📌 Portfolio
-Check out my projects on [GitHub](https://github.com/alx0rr)
+<div align="center">
+
+#### 🖥 XC OS
+
+<p>
+Official installation website for <b>XC OS</b> — custom operating system project.
+</p>
+
+<a href="https://xc-os-website.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-XC_OS_Website-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
 ---
 
 ## 📫 Contact Me
