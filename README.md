@@ -66,8 +66,15 @@ Official installation website for <b>XC OS</b> — custom operating system proje
   <img src="https://img.shields.io/badge/Visit-XC_OS_Website-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </a>
 
-</div>
+#### 👥 Social Network
 
+<p>
+Official website for <b>Evo</b> — new social network.
+</p>
+
+<a href="https://evoapps.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Open-Evoapps-000000?style=for-the-badge&logoColor=white" />
+</a>
 <br>
 
 ---
