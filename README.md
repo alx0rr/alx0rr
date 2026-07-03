@@ -24,7 +24,7 @@
 
 ## Tech Stack & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,go,dart,git,linux,windows,docker,sqlite,postgresql,mysql,arduino,vscode,obsidian" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,go,dart,git,linux,windows,docker,sqlite,postgresql,mysql,mongodb,arduino,vscode,obsidian" />
 </p>
 
 **Languages:** Python • C++ • C • ASM • JavaScript • Go • Dart • HTML/CSS  
