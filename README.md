@@ -19,17 +19,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alx0rr&layout=compact&theme=radical" width="400" height="200" />
 </div>
 
-
----
-
-## Tech Stack & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,go,dart,git,linux,windows,docker,sqlite,postgresql,mysql,mongodb,arduino,vscode,obsidian" />
-</p>
-
-**Languages:** Python • C++ • C • ASM • JavaScript • Go • Dart • HTML/CSS  
-**Specialization:** Full Stack Development • DevOps • Networking • API • Reverse Engineering • Bot Development
-
 ---
 
 ## About Me
@@ -39,50 +28,17 @@
 - Interested in reverse engineering, APIs & network protocols
 - Building bots and automation tools
 - Networking & low-level programming exploration
+- And more...
+
 
 ---
-
-## Areas of Expertise
-- Full Stack Web Development  
-- DevOps & Infrastructure  
-- Reverse Engineering & API Analysis  
-- Bot Development & Automation  
-- Networking & Protocols  
-- Low-level Programming (ASM, C, C++)  
-- Frontend Development (low)
-
----
-
-## 📌 Portfolio
 <div align="center">
+  
+## 📌 Portfolio
 
-#### 🖥 XC OS
-
-<p>
-Official installation website for <b>XC OS</b> — custom operating system project.
-</p>
-
-<a href="https://xc-os-website.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-XC_OS_Website-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<a href="https://alx0rr.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
-
-#### 👥 Social Network
-
-<p>
-Official website for <b>Evo</b> — new social network.
-</p>
-
-<a href="https://evoapps.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Open-Evoapps-000000?style=for-the-badge&logoColor=white" />
-</a>
-<br>
-
----
-
-## 📫 Contact Me
-- 💌 Email: anon.mail.al@proton.me
-- 💬 Telegram: [t.me/Alx0rrHub](https://t.me/Alx0rrHub)
-- 🐙 GitHub: [github.com/alx0rr](https://github.com/alx0rr)
 
 ---
 
